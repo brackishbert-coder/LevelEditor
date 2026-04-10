@@ -1,0 +1,58 @@
+[
+  {
+    "displayName": "Wall",
+    "xmlName": "wall",
+    "color": "#808080",
+    "spritePath": "",
+    "attributes": {"type":"wall"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":""}
+  },
+  {
+    "displayName": "Coin",
+    "xmlName": "coin",
+    "color": "#FFFF00",
+    "spritePath": "",
+    "attributes": {"type":"coin"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":""}
+  },
+  {
+    "displayName": "Ground",
+    "xmlName": "ground_dirt",
+    "color": "#00FF00",
+    "spritePath": "",
+    "attributes": {"type":"ground_dirt"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":"rhhrye","name":"tom"}
+  },
+  {
+    "displayName": "Platform",
+    "xmlName": "platform",
+    "color": "#8B4513",
+    "spritePath": "",
+    "attributes": {"type":"platform"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":""}
+  },
+  {
+    "displayName": "Water",
+    "xmlName": "water",
+    "color": "#0000FF",
+    "spritePath": "",
+    "attributes": {"type":"water"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":""}
+  },
+  {
+    "displayName": "Enemy",
+    "xmlName": "enemy",
+    "color": "#FF0000",
+    "spritePath": "",
+    "attributes": {"type":"enemy"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":""}
+  },
+  {
+    "displayName": "Unknown",
+    "xmlName": "unknown",
+    "color": "#FFAFAF",
+    "spritePath": "",
+    "attributes": {"type":"unknown"},
+    "childNodes": {"width":"16","height":"16","scale":"100","rotation":"0","sprite":""}
+  }
+]
